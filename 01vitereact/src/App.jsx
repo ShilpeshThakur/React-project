@@ -1,8 +1,14 @@
 
+import Chai from './chai.jsx';
 function App() {
 
   return (
-    <h1>Welcome React with vite : Shilpesh </h1>
+      <>
+        <Chai />
+        <h1>chai and react</h1>
+        <p> test</p>
+
+      </>
   )
 }
 
