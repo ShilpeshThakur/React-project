@@ -8,8 +8,11 @@ function App() {
     let [counter, setCounter] = useState(5)
     const addValue = () => {
         if(counter < 20){
-            counter = counter + 1
-            setCounter(counter)
+            // counter = counter + 1
+            setCounter((prevCounter)=> prevCounter + 1) // it has callback function . which give previous state and we can update the value
+            setCounter((prevCounter)=> prevCounter + 1)
+            setCounter(prevCounter => prevCounter + 1)
+            setCounter(prevCounter=> prevCounter + 1)
         }
     }
 
