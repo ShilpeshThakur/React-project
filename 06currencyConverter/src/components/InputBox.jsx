@@ -14,7 +14,6 @@ function InputBox({
                   }) {
 
 	const id = useId()
-	console.log(amountDisabled);
 	return (
 		<div className={`bg-white p-3 rounded-lg text-sm flex ${className}`}>
 			<div className='w-1-2'>
