@@ -69,3 +69,15 @@ Z
 *07reactRouter/src/components/User/User.jsx,b\c\bc00d7c7fd2b66c082ff7a0f312debd15b5a1821
 ^
 .07reactRouter/src/components/Github/Github.jsx,6\6\66846a99882e94cb77f4f98e7af6af59b72454c1
+V
+&08minicontext/src/Components/Login.jsx,2\7\2785196c10146ddf85f91a0e3e95a9a8955bb827
+X
+(08minicontext/src/Components/Profile.jsx,b\7\b701d52822c25898b9e4eea2c0e6b2a1e4f12de2
+J
+08minicontext/src/main.jsx,8\0\80cbebcd5f0e2e84a8dd046287eb0c6b10d45cb0
+X
+(08minicontext/src/context/UserContext.js,1\c\1cd05c6f07bc7087ebf1bdb4eca2cd1f90a76e2e
+I
+08minicontext/src/App.jsx,8\7\870fd04ad020862c364045c874df69879e16c36a
+a
+108minicontext/src/context/UserContextProvider.jsx,e\0\e0ad9933eb519db00948d98d534a6dd9f94399d3
